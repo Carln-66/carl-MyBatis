@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../carl-02-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../carl-03-proxy-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../carl-04-parameter/pom.xml" />
+        <option value="$PROJECT_DIR$/../carl-05-return-result/pom.xml" />
+        <option value="$PROJECT_DIR$/../编程学习资料/MyBatis/源码/ch05-return-result/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

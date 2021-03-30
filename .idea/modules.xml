@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/carl-01-hello1.iml" filepath="$PROJECT_DIR$/carl-01-hello1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carl-02-dao/carl-02-dao.iml" filepath="$PROJECT_DIR$/../carl-02-dao/carl-02-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carl-03-proxy-dao/carl-03-proxy-dao.iml" filepath="$PROJECT_DIR$/../carl-03-proxy-dao/carl-03-proxy-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carl-04-parameter/carl-04-parameter.iml" filepath="$PROJECT_DIR$/../carl-04-parameter/carl-04-parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../carl-05-return-result/carl-05-return-result.iml" filepath="$PROJECT_DIR$/../carl-05-return-result/carl-05-return-result.iml" />
+    </modules>
+  </component>
+</project>
